@@ -22,4 +22,5 @@ function checkCountValue(){
 function resetCount(){
     document.getElementById("countDisplay").innerHTML=0;
     count = 0;
+    alert("Your follower count has been reset")
 }
